@@ -20,10 +20,16 @@ Pivoted from the AACT clinical-trials project to a broader pharmaceutical data-a
 - Learned the basic openFDA query structure: endpoint + query parameters.
 - Successfully queried individual drugs and counted reported reactions.
 - Began translating browser API calls into Python using the `requests` library.
+- Added the first openFDA API exploration script to GitHub.
+- Added the initial openFDA metadata-investigation script to GitHub.
+- Added a running documentation/reference page for Requests, openFDA, and ChEMBL.
+- Confirmed that secrets such as API keys and bulk raw API data are excluded from source control.
+
+### Security / source-control note
+The working Drive copy contained an openFDA API key. That key was deliberately removed from the public GitHub copy. Future keys should be stored only in a local `.env` file or environment variable and never committed.
 
 ### Next steps
-- Connect the local project folder to this GitHub repository.
-- Keep API keys out of source control using environment variables.
-- Build a reusable Python workflow for querying multiple drugs.
+- Continue building a reusable Python workflow for querying multiple drugs.
 - Save raw API responses locally and design a clean processed dataset.
+- Continue metadata/field exploration and document relevant fields.
 - Add ChEMBL once the openFDA pipeline is understood.
