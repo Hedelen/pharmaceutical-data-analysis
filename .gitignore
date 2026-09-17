@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Raw / generated data
+# Keep small curated examples if needed later, but do not commit bulk API pulls.
+data/raw/*
+!data/raw/.gitkeep
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
