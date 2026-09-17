@@ -1,9 +1,6 @@
 # Project Resources
 
 A running reference list for the APIs, documentation, and libraries used in this project.
-## Tables 
-
-- [Field Guide](https://docs.google.com/spreadsheets/d/17yJV33hIh8028ZVIIqNTCGon3JncJlvL/edit?usp=sharing&ouid=108288156109218614958&rtpof=true&sd=true)
 
 ## Python / HTTP
 
@@ -21,6 +18,7 @@ A running reference list for the APIs, documentation, and libraries used in this
 - [Understanding Drug Adverse Event API results](https://open.fda.gov/apis/drug/event/understanding-the-api-results/)
 - [openFDA advanced query syntax](https://open.fda.gov/apis/advanced-syntax/)
 - [openFDA API authentication / API keys](https://open.fda.gov/apis/authentication/)
+- [Field Guide](https://docs.google.com/spreadsheets/d/17yJV33hIh8028ZVIIqNTCGon3JncJlvL/edit?usp=sharing&ouid=108288156109218614958&rtpof=true&sd=true)
 
 ## ChEMBL
 
