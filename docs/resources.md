@@ -1,11 +1,15 @@
 # Project Resources
 
 A running reference list for the APIs, documentation, and libraries used in this project.
+## Tables 
+
+- [Field Guide]((https://docs.google.com/spreadsheets/d/17yJV33hIh8028ZVIIqNTCGon3JncJlvL/edit?usp=sharing&ouid=108288156109218614958&rtpof=true&sd=true))
 
 ## Python / HTTP
 
 - [Requests documentation](https://requests.readthedocs.io/en/latest/)
 - [Requests quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
+  
 
 ## openFDA
 
